@@ -1,5 +1,3 @@
-"use strict";
-
 import * as fs from "fs";
 
 const robloxVersionsPath = process.env["LOCALAPPDATA"] + "\\Roblox\\Versions";
